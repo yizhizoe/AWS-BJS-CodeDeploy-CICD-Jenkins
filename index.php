@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo - V2</h1>
+    <h1>AWS DevOps Demo - V1</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
@@ -44,7 +44,6 @@
     <h2>EC2 Private IP: <?php echo $private_id; ?></h2>
     </br>
     <p>Please refer this link for more details. <a href="http://aws.amazon.com/documentation/codedeploy">AWS CodeDeploy Document</a>. Blue: #0188cc, Green: #00cc3a</p>
-    <p>danrongm@amazon.com</a>.</p>
   </div>    
 </body>
 </html>
