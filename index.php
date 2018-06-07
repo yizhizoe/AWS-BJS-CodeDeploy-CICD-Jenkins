@@ -6,7 +6,7 @@
   <style>
     body {
       color: #ffffff;
-      background-color: #00cc3a;
+      background-color: #0188cc;
       font-family: Arial, sans-serif;
       font-size: 14px;
     }
@@ -26,7 +26,7 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo - V2</h1>
+    <h1>AWS DevOps Demo - V1</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
     <h2>AWS BJS CodeDeploy Demo</h2>
   </div>
