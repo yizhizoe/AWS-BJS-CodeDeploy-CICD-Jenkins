@@ -26,9 +26,9 @@
 </head>
 <body>
   <div align="center">
-    <h1>AWS DevOps Demo - V1</h1>
+    <h1>AWS DevOps Demo - V2</h1>
     <h2>Github + ALB + CodeDeploy + Jenkins</h2> 
-    <h2>AWS BJS CodeDeploy Demo</h2>
+    <h2>Cross-account CodeDeploy Demo</h2>
   </div>
   </br>
   <div align="center">
